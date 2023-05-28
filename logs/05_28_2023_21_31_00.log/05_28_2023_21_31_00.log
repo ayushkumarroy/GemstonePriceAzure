@@ -1,0 +1,5 @@
+[ 2023-05-28 21:31:00,850 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-28 21:31:00,883 ] 186 werkzeug - INFO -  * Debugger PIN: 220-636-033
+[ 2023-05-28 21:31:17,793 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/May/2023 21:31:17] "GET / HTTP/1.1" 200 -
+[ 2023-05-28 21:31:17,958 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/May/2023 21:31:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-28 21:31:44,319 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/May/2023 21:31:44] "GET /predict HTTP/1.1" 200 -
