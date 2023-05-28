@@ -1,4 +1,4 @@
-## END TO END ML PROJECT FOR HOUSE PRICE
+## END TO END ML PROJECT FOR Gemstone Price Predictor Using Linear Regression
 
 ### CREATED A VIRTUAL ENVIRONMENT
 ```
